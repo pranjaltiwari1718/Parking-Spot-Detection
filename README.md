@@ -1,1 +1,1 @@
-# parking-space-counter using openCV2
+# Parking Spot Counter using openCV
